@@ -1,0 +1,78 @@
+#main{
+    background-color: #F2F2F2;
+  }
+  h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    padding-top: 2rem;
+    margin-bottom: 0;
+    font-size: 2.5rem;
+  }
+  .title-quote{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 0.85rem;
+  }
+  header{
+    text-align: center;
+  }
+  img{
+    display: block;
+  }
+  #image{
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    width: 80vw;
+  }
+  #img-div{
+    padding: 10px;
+    background: white;
+    margin: 10px;
+  }
+  #img-caption{
+    text-align: center;
+    margin: 15px auto 5px auto;
+    display: block;
+    padding: 0 7vw;
+    height: max-content;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 0.85rem;
+  }
+  #tribute-title{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    margin: 50px 0;
+    display: block;
+    font-size: 1.17em;
+  }
+  ul{
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+  }
+  li{
+        margin: 16px 0;
+        font-size: 0.9rem;
+  }
+  blockquote{
+    font-style: italic;
+    text-align: left;
+    max-width: 545px;
+    margin: 16px auto;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .last-quote{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 1.1rem;
+    text-align: center;
+    margin: 1.2rem auto;
+    padding: 0.7rem;
+  }
